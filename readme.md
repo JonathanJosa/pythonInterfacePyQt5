@@ -168,6 +168,10 @@ Para ejecución:
 Python3 file.py
 ```
 
+## Conclusiones
+
+Es interesante jugar con estas funciones en Python, crear interfaces solo demuestra la gran comunidad que existe en el lenguaje, trabajar una introduccion con PyQt5 te lleva a conocer una manera diferente de programación y libera al conocimiento de muchas más muestras de código en alternativas a PyQt5
+
 ## License
 
 ITESM PUE ®
